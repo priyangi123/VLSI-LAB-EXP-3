@@ -1,11 +1,16 @@
 SIMULATION AND IMPLEMENTATION OF MULTIPLIER
+
+
 **AIM: **
+
 To simulate and synthesis multiplier using vivado.
 
 **APPARATUS REQUIRED:**
+
 vivado 2023.2
   
 **PROCEDURE:**
+
 STEP:1 Start the vivado software, Select and Name the New project.
 
 STEP:2 Select the device family, device, package and speed.
@@ -133,11 +138,13 @@ endmodule
 
 2 bit multiplier:
 
-![image](https://github.com/priyangi123/VLSI-LAB-EXP-3/assets/165141104/9ada2c87-9433-4270-b438-94dccc85da19)
+<img width="1108" alt="2bit (1)" src="https://github.com/priyangi123/VLSI-LAB-EXP-3/assets/165141104/0b4d65f0-9b24-4a0c-b03d-620d096e1a1a">
+
 
 4 bit multiplier:
 
-![image](https://github.com/priyangi123/VLSI-LAB-EXP-3/assets/165141104/ebaa3e4b-51ea-4d2a-8a6f-fe398df46d1c)
+<img width="791" alt="4bit" src="https://github.com/priyangi123/VLSI-LAB-EXP-3/assets/165141104/c97ae855-d46f-4df8-a848-5fb90ac85101">
+
 
 
 
