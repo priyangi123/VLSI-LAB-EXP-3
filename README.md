@@ -36,7 +36,9 @@ STEP:7 compare the output with truth table.
 
 
 **Verilog code**
+
 2 bit multiplier:
+
 module ha(a,b,sum,c);
 
 input a,b;
@@ -66,6 +68,7 @@ ha ha2(a[1] &b[1],w1,c[2],c[3]);
 endmodule
 
 4 bit multipler:
+
 module ha(a,b,c,s);
 
 input a,b;
