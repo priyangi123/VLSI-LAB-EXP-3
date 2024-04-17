@@ -1,7 +1,7 @@
-SIMULATION AND IMPLEMENTATION OF MULTIPLIER
+# SIMULATION AND IMPLEMENTATION OF MULTIPLIER
 
  
-**AIM: **
+**AIM:**
 
 To simulate and synthesis multiplier using vivado.
 
@@ -26,6 +26,7 @@ STEP:6 Click the simulation to simulate the program and give the inputs and veri
 STEP:7 compare the output with truth table.
 
 **Logic Diagram**
+
 2 bit Multiplier
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/7713750f-65e6-41c0-8082-5005eac4031c)
@@ -37,7 +38,7 @@ STEP:7 compare the output with truth table.
 
 **Verilog code**
 
-2 bit multiplier:
+# 2 bit multiplier:
 
 module ha(a,b,sum,c);
 
@@ -67,7 +68,7 @@ ha ha2(a[1] &b[1],w1,c[2],c[3]);
 
 endmodule
 
-4 bit multipler:
+# 4 bit multipler:
 
 module ha(a,b,c,s);
 
@@ -153,6 +154,7 @@ endmodule
 
 
 **Result**
+
 Thus,the simulation and synthesis of multipliers by using vivado has been successfully excecuted and verified.
 
 
